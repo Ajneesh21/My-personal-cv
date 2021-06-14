@@ -1,2 +1,2 @@
 # My-personal-cv
-My first fullu developed cv website with both html and css
+My first fully developed cv website with both html and css
